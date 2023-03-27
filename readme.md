@@ -1,6 +1,8 @@
 
 # Műveletek listákkal - Webáruház estiseknek
 
+(GitHub Pages Link)[https://zschopper.github.io/js_bootstrap5_list_crud/]
+
 Űrlap validációra egy JS kóddal kiegésztett változat: [link](https://github.com/csefikatalin/urlapok_validalasa.git)
 
 Kutyás feladat: alapján készíts "webáruházat" tetszőleges témában.
