@@ -1,0 +1,10 @@
+[
+    {"name": "item 00", "stat1": "value 212", "stat2": "value 066", "stat3": "value 120" },
+    {"name": "item 01", "stat1": "value 050", "stat2": "value 025", "stat3": "value 068" },
+    {"name": "item 02", "stat1": "value 108", "stat2": "value 103", "stat3": "value 169" },
+    {"name": "item 03", "stat1": "value 015", "stat2": "value 248", "stat3": "value 249" },
+    {"name": "item 04", "stat1": "value 065", "stat2": "value 013", "stat3": "value 232" },
+    {"name": "item 05", "stat1": "value 242", "stat2": "value 067", "stat3": "value 201" },
+    {"name": "item 06", "stat1": "value 026", "stat2": "value 109", "stat3": "value 029" },
+    {"name": "item 07", "stat1": "value 013", "stat2": "value 091", "stat3": "value 176" }
+]

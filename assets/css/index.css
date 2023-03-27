@@ -1,0 +1,21 @@
+.data-operations {
+    visibility: hidden;
+    float: right;
+}
+
+tr:hover .data-operations {
+    visibility: visible;
+}
+
+.data-operations .edit:hover {
+    color: forestgreen;
+    transition-duration: 200ms;
+    font-weight: bold;
+    cursor: pointer;
+}
+.data-operations .delete:hover {
+    color: red;
+    transition-duration: 200ms;
+    font-weight: bold;
+    cursor: pointer;
+}
